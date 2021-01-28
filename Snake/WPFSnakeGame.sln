@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFSnakeGame", "MyWPFSnakeGame\WPFSnakeGame.csproj", "{0B6C31DA-95BD-41C8-B249-3D34E5A017D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeClassLibrary", "SnakeClassLibrary\SnakeClassLibrary.csproj", "{380CAD32-49DB-415A-9C1E-C48504F26215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6C31DA-95BD-41C8-B249-3D34E5A017D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6C31DA-95BD-41C8-B249-3D34E5A017D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6C31DA-95BD-41C8-B249-3D34E5A017D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6C31DA-95BD-41C8-B249-3D34E5A017D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380CAD32-49DB-415A-9C1E-C48504F26215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380CAD32-49DB-415A-9C1E-C48504F26215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380CAD32-49DB-415A-9C1E-C48504F26215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380CAD32-49DB-415A-9C1E-C48504F26215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2613E273-4BF8-4D5A-9CA8-BA658C1793FF}
+	EndGlobalSection
+EndGlobal
